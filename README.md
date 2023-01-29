@@ -1,4 +1,4 @@
-# EverydayTasks 
+# SIMPLE PYTHON CODE
 Python code small snippets.
 This folder consists of small code snippets of python.
 
