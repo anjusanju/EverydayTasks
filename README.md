@@ -9,7 +9,7 @@ print the emoji using the print statement and user input given statement. The Be
 TASK 2 : 
 Simple Various Numpy array operation. 
 
-Task3: 
+TASK 3 : 
 To the detect sentence and  translate the sentence
 The below  snippet shows to detect the sentence. 
 ![image](https://user-images.githubusercontent.com/20492104/216120389-1959e180-d266-4f62-bc8d-43008b691534.png)
