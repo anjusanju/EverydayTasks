@@ -28,3 +28,5 @@ The steps to set up a Google Cloud Platform account and create a project with th
 * Fill out the form to create a new service account. You can set the role to "Project" > "Editor" to allow the API to have full access to your project.
 * Click the "Create Key" button to create a JSON key file that you can use to authenticate your API requests.
 * Save the JSON file to your local machine and set the path to it in your code. 
+
+
